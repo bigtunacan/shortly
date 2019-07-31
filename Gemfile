@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'byebug'
+#gem 'sqlite3'
+gem 'sequel'
+gem 'faraday'
+gem 'sucker_punch'
+gem 'sinatra'
+gem 'thin'
+gem 'pg'
